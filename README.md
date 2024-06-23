@@ -12,6 +12,7 @@ This project demonstrates how to interface an analog temperature sensor with an 
 #### Block diagram
 
 
+
 #### Circuit Setup
 1. **Connecting the Temperature Sensor to ESP8266:**
    - Connect the VCC pin of the temperature sensor to the 3.3V pin on the ESP8266.
